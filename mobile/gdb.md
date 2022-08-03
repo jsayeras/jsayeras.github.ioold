@@ -1,4 +1,6 @@
 
+
+### GDB custom command
 ```python
 class CustomCommand (gdb.Command):
 """Description of the command"""
