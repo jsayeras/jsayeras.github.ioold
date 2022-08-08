@@ -7,3 +7,5 @@ layout: default
 ### [Frida](./frida.html)
 
 ### [GDB](./gdb.html)
+
+### [Ghidra](./ghidra.html)
