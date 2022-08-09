@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Frida 
+# Frida 
 
 [Frida](https://frida.re/) is a dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. There are common techniques used to [detect Frida](https://github.com/darvincisec/DetectFrida)
 * Detect through named pipes used by Frida
@@ -56,6 +56,7 @@ Interceptor.attach(Module.findExportByName("libc.so", "open"), {
     }
 });
 ```
+## Snippets
 
 There are many useful [snippets](https://github.com/iddoeldor/frida-snippets) that can be used to perform dynamic analysis, the following are the most relevant ones:
 
