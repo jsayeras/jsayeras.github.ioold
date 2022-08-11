@@ -1,4 +1,4 @@
-[Ghidra snippets](https://github.com/HackOvert/GhidraSnippets)
+### [Ghidra snippets](https://github.com/HackOvert/GhidraSnippets)
 
 ### Search instruction patterns like in YARA
 
