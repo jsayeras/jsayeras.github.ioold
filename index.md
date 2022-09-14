@@ -9,4 +9,4 @@ A personal site to keep some interesting notes :D based on the [architect theme]
 ### [Web](./web/xss.html)
 ### [Infraestructure](./infra/infra.html)
 ### [Commands](./cmd/cmd.html)
-### [CISSP](./cissp/cisp.html)
+### [CISSP](./cissp/cissp.html)
