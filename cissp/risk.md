@@ -1,4 +1,5 @@
-# Risk
+# Risk Management
+Risk management is a detailed process of identifying factors that could damage or disclose assets, in other words evaluating the cost benefit of protecting an asset or not.
 Risk management is primarily the responsibility of upper management, but typically done by IT and security. Once an inventory of threats and assets is done, then each pairing must be evaluated.There are two primary risk assessment methodologies:
 
 * Qualitative risk analysis is more scenario based. 
