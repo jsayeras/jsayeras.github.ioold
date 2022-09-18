@@ -41,3 +41,28 @@ There are five elements in within the AAA services
 * **Auditing**: recording a log of events and activities related to the system and subjects
 * **Accounting**: reviewing the logs to hold subjects accountable for their actions
 
+### Biometry
+* FRR -> False Rejection Rate -> Type 1 (System does not authenticate valid user)
+* FAR -> False Acceptance Rate -> Type 2 (Authenticate someone incorrectly) 
+* CER -> Cross Error Rate -> identifies the accuracy of a biometric method
+
+### Access control
+**NOTE** Following ISC risk/rule/task access control are lowercase
+* Privilege creep is the tendency for users to accrue privileges over time
+* **DAC** Discretionary Access Control (owner can grant or deny access to any other subject i.e NFFS)
+* **NDAC** Nondiscretionary Access Control
+    * **RBAC** Role-Based Access Control
+    * rule-Based Access Control
+    * risk-Based Access Control
+    * task-based Access Control
+    * **ABA** Attribute Based Access Control (SDN/SD-WAN) 
+    * **MAC** Mandatory Access Controls
+* **AAA Protocols** Authentication Authorization Accounting
+
+
+### Testing
+* SOC 1 -> accuracy of financial reporting
+* SOC 2 -> confidentiality, integrity and availability (NDA)
+* SOC 3 -> confidentiality, integrity and availability (Public)
+* Type 1 Reports -> opinion on the description provided by management and suitability of the design
+* Type 2 Reports -> opinion on the effectiveness of the controls (confirms controls are functioning properly)
