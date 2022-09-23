@@ -1,9 +1,13 @@
-# RISK Glossary
+# Glossary & Definitions
 
 ### Due Diligence
 Due diligence is establishing a plan, policy, and process to protect the interests of an organization.
 ### Due Care
 Due care is the continued application of the security structure onto the organization.
+
+
+* **ATO** Authorization To Operate
+* **SOP** Standard Operating Procedure
 
 ### CIA Triad
 * **Confidentiality**
@@ -41,6 +45,28 @@ There are five elements in within the AAA services
 * **Auditing**: recording a log of events and activities related to the system and subjects
 * **Accounting**: reviewing the logs to hold subjects accountable for their actions
 
+### Legal
+* **CFR** Code of Federal Regulations
+* **CFAA** Computer Fraud and Abuse Act
+* **FISMA** Federal Information Security Management Act
+* **DMCA** Digital Millennium Copyright Act
+* **ITAR**  Internaltional Traffic in Arms Regulations
+    * USML United States Munitions List   
+* **EAR** Export Administration Regulations (covers broader set  of items that are for comercial use)
+    * CCL Commerce Control List
+* **BIS** Bureau of Industry and Security (encryption export controls)
+* **ECPA** Electronic Communications Privacy Act  (crime to invade the electronic privacy)
+* **CALEA** Communications Assistance for Law Enforcement (Amended the ECPA)
+* **HIPAA** Health Insurance Portability and Accountability Act
+    * HMO (Health Maintenance Organizations)
+* **HITECH** Health Information Technology for Economic and Clinical Health Act (amended HIPAA)
+    * BAA Business Associate Agreement
+* **COPPA** Children's Online Privacy Protection Act (parents must give verifiable consent of children data collection <13)
+* **GLBA** Gramm-Leach-Bliley Act (strict governmental barriers between financial institutions)
+* **FERPA** Family Educational Rights and Privacy Act (privacy rights to students older than 18)
+
+
+
 ### Biometry
 * FRR -> False Rejection Rate -> Type 1 (System does not authenticate valid user)
 * FAR -> False Acceptance Rate -> Type 2 (Authenticate someone incorrectly) 
@@ -59,6 +85,11 @@ There are five elements in within the AAA services
     * **MAC** Mandatory Access Controls
 * **AAA Protocols** Authentication Authorization Accounting
 
+# Business Continuity Plan
+* **MTD** Maximum Tolerable Downtime
+* **MTO** Maximum Tolerable Outage
+* **RTO** Recovery Time Objective (recover the function in the case of disruption)
+* **RPO** Recovery Point Objective (recover data loss equivalent)
 
 ### Testing
 * SOC 1 -> accuracy of financial reporting
@@ -66,3 +97,20 @@ There are five elements in within the AAA services
 * SOC 3 -> confidentiality, integrity and availability (Public)
 * Type 1 Reports -> opinion on the description provided by management and suitability of the design
 * Type 2 Reports -> opinion on the effectiveness of the controls (confirms controls are functioning properly)
+
+# Disaster Recovery Plan
+* **SPOF** Single Point Of Failure
+* **MAAs** Mutual Assistance Agreements
+
+# Investigations and Etics
+* **EDRM** Electronic Discovery Reference Model
+* **NSRL** National Software Reference Library
+
+# Managing Security Operations
+* **SoD** Separation of Duties
+* **MTTF** Mean Time to Failure
+* **PAM** Privileged Account Management
+* **GAAP** Generally Accepted Accounting Principles
+* **CAB** Change Advisory Board
+
+
