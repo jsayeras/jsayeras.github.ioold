@@ -115,4 +115,22 @@ There are five elements in within the AAA services
 * **GAAP** Generally Accepted Accounting Principles
 * **CAB** Change Advisory Board
 
+## Physical Security
+* **CPTED**: Crime Prevention Through environmental Design
+* **AIW**: Associated allowable window
+* **SDO**: Service Delivery Objective
+* **MTD/MTO**: Maximum Tolerable DOwntime/Outage
+* **MTTF**: Mean Time To Failure
+* **MTTR**: Mean Time  To Repair
+* **MTBF**: Mean Time Between Failure
+
+### Power
+* **Fault**: A momentary loss of power
+* **Blackout**:  A complete loss of power
+* **Sag**: Momentary low voltage
+* **Brownnout**: Prolonged low voltage
+* **Spike**: Momentary high voltage
+* **Surge**: Prolonged high voltage
+* **Inrush**: An initial surge of power usually associated with connecting to a power source
+* **Ground**: The wire in an electrical circuit
 
