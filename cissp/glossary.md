@@ -1,4 +1,4 @@
-# Glossary & Definitions
+## Glossary & Definitions
 
 ### Due Diligence
 Due diligence is establishing a plan, policy, and process to protect the interests of an organization.
@@ -65,8 +65,6 @@ There are five elements in within the AAA services
 * **GLBA** Gramm-Leach-Bliley Act (strict governmental barriers between financial institutions)
 * **FERPA** Family Educational Rights and Privacy Act (privacy rights to students older than 18)
 
-
-
 ### Biometry
 * FRR -> False Rejection Rate -> Type 1 (System does not authenticate valid user)
 * FAR -> False Acceptance Rate -> Type 2 (Authenticate someone incorrectly) 
@@ -83,9 +81,13 @@ There are five elements in within the AAA services
     * task-based Access Control
     * **ABA** Attribute Based Access Control (SDN/SD-WAN) 
     * **MAC** Mandatory Access Controls
+
 * **AAA Protocols** Authentication Authorization Accounting
 
-# Business Continuity Plan
+* **LUB**: Least Upper Bound
+* **GLB**: Greatest Lower Bound
+
+## Business Continuity Plan
 * **MTD** Maximum Tolerable Downtime
 * **MTO** Maximum Tolerable Outage
 * **RTO** Recovery Time Objective (recover the function in the case of disruption)
@@ -98,15 +100,15 @@ There are five elements in within the AAA services
 * Type 1 Reports -> opinion on the description provided by management and suitability of the design
 * Type 2 Reports -> opinion on the effectiveness of the controls (confirms controls are functioning properly)
 
-# Disaster Recovery Plan
+## Disaster Recovery Plan
 * **SPOF** Single Point Of Failure
 * **MAAs** Mutual Assistance Agreements
 
-# Investigations and Etics
+## Investigations and Etics
 * **EDRM** Electronic Discovery Reference Model
 * **NSRL** National Software Reference Library
 
-# Managing Security Operations
+## Managing Security Operations
 * **SoD** Separation of Duties
 * **MTTF** Mean Time to Failure
 * **PAM** Privileged Account Management
